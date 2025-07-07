@@ -1,3 +1,4 @@
+//1011 sequnce_detector
 module seq_detector_moore (
     input clk,
     input rst,
