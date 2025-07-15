@@ -1,5 +1,5 @@
 //1011 sequnce_detector
-module seq_detector_moore (
+module seq_detector_mealy (
     input clk,
     input rst,
     input in_bit,
